@@ -1,0 +1,65 @@
+body {
+    background: white;
+}
+root { background: white;}
+
+#who-are-you,
+#let-s-chat,
+#nhs-career-coach { color: #005eb8; }
+p {color: black; font-family: sans-serif;}
+.st-emotion-cache-13k62yr,
+.st-emotion-cache-hzygls,
+.st-bb,
+.st-cf { background: white; color: black;}
+.st-ae { background: white; color: black;}
+
+.st-emotion-cache-doy61h:hover, .st-emotion-cache-doy61h:active, .st-emotion-cache-doy61h:focus-visible {
+    background: #005eb8;
+    color: white;
+}
+
+.st-emotion-cache-1ppef92:hover, .st-emotion-cache-1ppef92:active, .st-emotion-cache-1ppef92:focus-visible {
+    background: #005eb8;
+    color: white;
+}
+
+.stBottomBlockContainer {
+  background: white; color: black;
+}
+
+.st-emotion-cache-janbn0{
+    background: none;
+}
+
+.container {
+    display: flex;
+}
+.logo-text {
+    font-weight:700 !important;
+    font-size: 1.9rem !important;
+    color: black !important;
+    padding-top: 10px !important;
+    padding-left: 30px;
+}
+img.logo-img {
+    float:right;
+    max-width: 150px;
+    height: 100px;
+}
+
+.container--thumbs img {
+    width:50px;
+    height: auto;
+}
+
+
+header.stAppHeader {
+    display: none;
+}
+.st-emotion-cache-1eo1tir {
+    padding-top: 50px;
+}
+
+.st-emotion-cache-1ir3vnm {
+    color: black;
+}
